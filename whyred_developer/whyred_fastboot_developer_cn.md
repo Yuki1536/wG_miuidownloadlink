@@ -1,6 +1,6 @@
-﻿# 红米Note 5 MIUI开发版下载线刷包
+# 红米Note 5 MIUI开发版下载 (fastboot ROM)
 
-这里有红米note5开发版线刷包下载链接，从旧到新排序。
+这里有红米note5开发版fastboot ROM下载链接，从旧到新排序。
 
 2018-03-29-8.3.29，国内版，下载链接：https://bigota.d.miui.com/8.3.29/whyred_images_8.3.29_20180329.0000.00_8.1_cn_eb00004bbc.tgz
 2018-04-19-8.4.19，国内版，下载链接：https://bigota.d.miui.com/8.4.19/whyred_images_8.4.19_20180419.0000.00_8.1_cn_b088d8f421.tgz
