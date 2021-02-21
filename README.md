@@ -1,4 +1,4 @@
-# ginkgo_miuidownloadlink
+# Redmi Note 8 official MIUI download links
 
 Record the official MIUI download link of Redmi Note 8.
 
