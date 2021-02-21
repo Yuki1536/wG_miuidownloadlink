@@ -14,7 +14,7 @@ Redmi Note 5 （Pro）（Record by Yuki1536）
 
 | Region | Stable Recovery | Stable Fastboot | Development Recovery | Development Fastboot |
 | :----: | :----: | :----: | :----: | :----: |
-| China & Global |[Stable Recovery]()|[Stable Fastboot]()|[Development Recovery](https://github.com/Kifranei/wG_miuidownloadlink/blob/main/whyred_developer/whyred_recovery_developer_cn.md)|[Development Fastboot](https://github.com/Kifranei/wG_miuidownloadlink/blob/main/whyred_developer/whyred_fastboot_for_developer_cn.md)
+| China & Global |[Stable Recovery]()|[Stable Fastboot]()|[Development Recovery](https://github.com/Kifranei/wG_miuidownloadlink/blob/main/whyred_developer/whyred_recovery_developer_cn.md)|[Development Fastboot](https://github.com/Kifranei/wG_miuidownloadlink/blob/main/whyred_developer/whyred_fastboot_developer_cn.md)
 | Russia |[Stable Recovery]()|[Stable Fastboot]()|[Development Recovery]()|[Development Fastboot]()
 
 
