@@ -21,8 +21,8 @@ Redmi Note 5
 Redmi Note 8
 | Region | Stable | Development |
 | :----: | :----: | :----: |
-| China |[Stable](https://github.com/Kifranei/ginkgo_miuidownloadlink/blob/main/stable/CN.md)|[Development](https://github.com/Kifranei/ginkgo_miuidownloadlink/blob/main/development/CN.md)
-| Global |[Stable](https://github.com/Kifranei/ginkgo_miuidownloadlink/blob/main/stable/MI.md)|
-| Europe |[Stable](https://github.com/Kifranei/ginkgo_miuidownloadlink/blob/main/stable/EEA.md)|
-| India |[Stable](https://github.com/Kifranei/ginkgo_miuidownloadlink/blob/main/stable/IN.md)|
-| Indonesia |[Stable](https://github.com/Kifranei/ginkgo_miuidownloadlink/blob/main/stable/ID.md)|
+| China |[Stable](https://github.com/Kifranei/wG_miuidownloadlink/blob/main/ginkgo_stable/CN.md)|[Development](https://github.com/Kifranei/wG_miuidownloadlink/blob/main/ginkgo_development/CN.md)
+| Global |[Stable](https://github.com/Kifranei/wG_miuidownloadlink/blob/main/ginkgo_stable/MI.md)|
+| Europe |[Stable](https://github.com/Kifranei/wG_miuidownloadlink/blob/main/ginkgo_stable/EEA.md)|
+| India |[Stable](https://github.com/Kifranei/wG_miuidownloadlink/blob/main/ginkgo_stable/IN.md)|
+| Indonesia |[Stable](https://github.com/Kifranei/wG_miuidownloadlink/blob/main/ginkgo_stable/ID.md)|
