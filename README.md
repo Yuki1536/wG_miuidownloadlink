@@ -13,9 +13,9 @@ If you encounter download problems, you can replace "bigota" with "hugeota" and 
 Redmi Note 5
 | Region | Stable | Development |
 | :----: | :----: | :----: |
-
-
-
+| China |[Stable]()|[Development](https://github.com/Kifranei/wG_miuidownloadlink/blob/main/whyred_developer/whyred_recovery_developer_cn.md)
+| Global |[Stable]()|[Development]()
+| Russia |[Stable]()|
 
 
 Redmi Note 8
