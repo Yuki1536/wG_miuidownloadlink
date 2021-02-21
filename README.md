@@ -15,7 +15,7 @@ Redmi Note 5 (Pro)
 | Region | Stable Recovery | Stable Fastboot | Development Recovery | Development Fastboot |
 | :----: | :----: | :----: | :----: | :----: |
 | China & Global |[Stable Recovery](https://github.com/Kifranei/wG_miuidownloadlink/blob/main/whyred_stable/whyred_recovery_cn_mi.md)|[Stable Fastboot](https://github.com/Kifranei/wG_miuidownloadlink/blob/main/whyred_stable/whyred_fastboot_cn_mi.md)|[Development Recovery](https://github.com/Kifranei/wG_miuidownloadlink/blob/main/whyred_developer/whyred_recovery_developer_cn.md)|[Development Fastboot](https://github.com/Kifranei/wG_miuidownloadlink/blob/main/whyred_developer/whyred_fastboot_developer_cn.md)
-| Russia |[Stable Recovery](https://github.com/Kifranei/wG_miuidownloadlink/blob/main/whyred_stable/whyred_recovery_ru.md)|[Stable Fastboot](https://github.com/Kifranei/wG_miuidownloadlink/blob/main/whyred_stable/whyred_fastboot_ru.md)|[Development Recovery](No data.)|[Development Fastboot](No data.)
+| Russia |[Stable Recovery](https://github.com/Kifranei/wG_miuidownloadlink/blob/main/whyred_stable/whyred_recovery_ru.md)|[Stable Fastboot](https://github.com/Kifranei/wG_miuidownloadlink/blob/main/whyred_stable/whyred_fastboot_ru.md)|[No data.]|[No data.]
 
 
 Redmi Note 8
