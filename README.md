@@ -7,8 +7,9 @@ https://xiaomifirmwareupdater.com 、https://github.com/mooseIre/update_miui_ota
 
 Thanks for the download link they recorded, I integrated the part I captured with what they recorded before I got this project.
 
-⚠️The links belongs to Xiaomi official.
+⚠️Note: The links belongs to Xiaomi official.
 If you encounter download problems, you can replace "bigota" with "hugeota" and download it.
+You also can try cdn high speed server.
 
 Redmi Note 5 (Pro)
 
