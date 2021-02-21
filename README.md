@@ -10,7 +10,7 @@ Thanks for the download link they recorded, I integrated the part I captured wit
 ⚠️The links belongs to Xiaomi official.
 If you encounter download problems, you can replace "bigota" with "hugeota" and download it.
 
-Redmi Note 5 （Pro）（Record by Yuki1536）
+Redmi Note 5 (Pro)
 
 | Region | Stable Recovery | Stable Fastboot | Development Recovery | Development Fastboot |
 | :----: | :----: | :----: | :----: | :----: |
@@ -18,7 +18,7 @@ Redmi Note 5 （Pro）（Record by Yuki1536）
 | Russia |[Stable Recovery]()|[Stable Fastboot]()|[Development Recovery]()|[Development Fastboot]()
 
 
-Redmi Note 8（Record by Kifranei）
+Redmi Note 8
 
 | Region | Stable | Development |
 | :----: | :----: | :----: |
