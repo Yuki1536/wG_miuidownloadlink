@@ -1,6 +1,6 @@
-﻿# 红米Note 5 MIUI开发版下载卡刷包
+# 红米Note 5 MIUI开发版下载 (recovery ROM)
 
-这里有红米note5开发版卡刷包下载链接，从旧到新排序。
+这里有红米note5开发版recovery ROM下载链接，从旧到新排序。
 
 2018-03-29-8.3.29，国内版，下载链接：https://bigota.d.miui.com/8.3.29/miui_HMNote5_8.3.29_044b33250d_8.1.zip
 2018-04-19-8.4.19，国内版，下载链接：https://bigota.d.miui.com/8.4.19/miui_HMNote5_8.4.19_8a7f4d1684_8.1.zip
