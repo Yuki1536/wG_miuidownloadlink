@@ -3,7 +3,7 @@
 Record the official MIUI download link of Redmi Note 8.
 
 Special thanks:
-https://xiaomifirmwareupdater.com 、https://github.com/mooselre/update_miui_ota 、https://roms.miuier.com 
+https://xiaomifirmwareupdater.com 、https://github.com/mooseIre/update_miui_ota 、https://roms.miuier.com 
 
 Thanks for the download link they recorded, I integrated the part I captured with what they recorded before I got this project.
 
