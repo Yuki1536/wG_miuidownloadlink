@@ -2,6 +2,7 @@
 
 | MIUI Version (Recovery) |
 | :------: |
+| -MIUI 11 Android 9- |
 | [9.12.12](https://bigota.d.miui.com/9.12.12/miui_GINKGO_9.12.12_b085b46872_9.0.zip)    |
 | [9.12.26](https://bigota.d.miui.com/9.12.26/miui_GINKGO_9.12.26_cb1d70c6f9_9.0.zip)    |
 | [20.1.2](https://bigota.d.miui.com/20.1.2/miui_GINKGO_20.1.2_55eef1616e_9.0.zip)    |
@@ -29,6 +30,7 @@
 | [20.3.18](https://bigota.d.miui.com/20.3.18/miui_GINKGO_20.3.18_3bb022bebc_9.0.zip)    |
 | [20.3.25](https://bigota.d.miui.com/20.3.25/miui_GINKGO_20.3.25_3de8dd6db0_9.0.zip)    |
 | [20.3.26](https://bigota.d.miui.com/20.3.26/miui_GINKGO_20.3.26_45c815e2bf_9.0.zip)    |
+| -MIUI 12 Android 10- |
 | [20.6.17](https://bigota.d.miui.com/20.6.17/miui_GINKGO_20.6.17_50f25d9985_10.0.zip)    |
 | [20.6.30](https://bigota.d.miui.com/20.6.30/miui_GINKGO_20.6.30_340e859187_10.0.zip)    |
 | [20.7.1](https://bigota.d.miui.com/20.7.1/miui_GINKGO_20.7.1_5f079394ef_10.0.zip)    |
@@ -114,10 +116,12 @@
 | [20.12.4](https://bigota.d.miui.com/20.12.4/miui_GINKGO_20.12.4_899aa79834_10.0.zip)    |
 | [20.12.7](https://bigota.d.miui.com/20.12.7/miui_GINKGO_20.12.7_2d7c2ec6a8_10.0.zip)    |
 | [20.12.9](https://bigota.d.miui.com/20.12.9/miui_GINKGO_20.12.9_7c5ed1cb0b_10.0.zip)    |
+| -MIUI 12 Android 11- |
 | [21.1.5](https://bigota.d.miui.com/21.1.5/miui_GINKGO_21.1.5_3ac3f90403_11.0.zip)    |
 | [21.1.6](https://bigota.d.miui.com/21.1.6/miui_GINKGO_21.1.6_112338b429_11.0.zip)    |
 | [21.1.8](https://bigota.d.miui.com/21.1.8/miui_GINKGO_21.1.8_10a2e3ce62_11.0.zip)    |
 | [21.1.11](https://bigota.d.miui.com/21.1.11/miui_GINKGO_21.1.11_d9c1f350e4_11.0.zip)    |
+| -MIUI 12.5 Android 11- |
 | [21.1.12](https://bigota.d.miui.com/21.1.12/miui_GINKGO_21.1.12_9b33435897_11.0.zip)    |
 | [21.1.13](https://bigota.d.miui.com/21.1.13/miui_GINKGO_21.1.13_9741dd947a_11.0.zip)    |
 | [21.1.15](https://bigota.d.miui.com/21.1.15/miui_GINKGO_21.1.15_3304480838_11.0.zip)    |
