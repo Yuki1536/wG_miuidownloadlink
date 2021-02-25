@@ -139,3 +139,4 @@
 | [21.2.19](https://bigota.d.miui.com/21.2.19/miui_GINKGO_21.2.19_f8e7e6db35_11.0.zip)    |
 | [21.2.22](https://bigota.d.miui.com/21.2.22/miui_GINKGO_21.2.22_49b813f4ec_11.0.zip)    |
 | [21.2.23](https://bigota.d.miui.com/21.2.23/miui_GINKGO_21.2.23_32d832ff97_11.0.zip)    |
+| [21.2.24](https://bigota.d.miui.com/21.2.24/miui_GINKGO_21.2.24_a31bf4a693_11.0.zip)    |
