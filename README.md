@@ -1,6 +1,6 @@
-# Redmi Note 5 （Pro） & Redmi Note 8 official MIUI download links
+# Redmi Note 5 Pro & Redmi Note 8 official MIUI download links
 
-Record the official MIUI download link of Redmi Note 5 （Pro）& Redmi Note 8.
+Record the official MIUI download link of Redmi Note 5 Pro & Redmi Note 8.
 
 Special thanks:
 https://xiaomifirmwareupdater.com 、https://github.com/mooseIre/update_miui_ota 、https://roms.miuier.com 
@@ -11,7 +11,7 @@ Thanks for the download link they recorded, I integrated the part I captured wit
 If you encounter download problems, you can replace "bigota" with "hugeota" and download it.
 You also can try cdn high speed server.
 
-Redmi Note 5 (Pro) (whyred)
+Redmi Note 5 Pro (whyred)
 
 | Region | Stable Recovery | Stable Fastboot | Development Recovery | Development Fastboot |
 | :----: | :----: | :----: | :----: | :----: |
