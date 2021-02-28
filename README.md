@@ -1,30 +1,25 @@
-# Redmi Note 5 Pro & Redmi Note 8 official MIUI download links
+# Redmi Note 系列 官方 MIUI 下载链接
 
-Record the official MIUI download link of Redmi Note 5 Pro & Redmi Note 8.
+记录 Redmi Note 系机型的官方 MIUI ROM 地址
 
-Special thanks:
-https://xiaomifirmwareupdater.com 、https://github.com/mooseIre/update_miui_ota 、https://roms.miuier.com 
+特别感谢 https://xiaomifirmwareupdater.com 、https://github.com/mooseIre/update_miui_ota 、https://roms.miuier.com 所提供的链接。
 
-Thanks for the download link they recorded, I integrated the part I captured with what they recorded before I got this project.
-
-⚠️Note: The links belongs to Xiaomi official.
-If you encounter download problems, you can replace "bigota" with "hugeota" and download it.
-You also can try cdn high speed server.
+⚠️警告:链接属于小米官方。如果你遇到下载问题 可以尝试将地址中的"bigota"更换为"hugeota"并重新下载
 
 Redmi Note 5 Pro (whyred)
 
-| Region | Stable Recovery | Stable Fastboot | Development Recovery | Development Fastboot |
+| 地区 | 稳定版 卡刷包 | 稳定版 线刷包 | 开发版 卡刷包 | 开发版 线刷包 |
 | :----: | :----: | :----: | :----: | :----: |
-| 🇨🇳China & 🇺🇳Global |[Stable Recovery](https://github.com/Kifranei/wG_miuidownloadlink/blob/main/whyred_stable/whyred_recovery_cn_mi.md)|[Stable Fastboot](https://github.com/Kifranei/wG_miuidownloadlink/blob/main/whyred_stable/whyred_fastboot_cn_mi.md)|[Development Recovery](https://github.com/Kifranei/wG_miuidownloadlink/blob/main/whyred_developer/whyred_recovery_developer_cn.md)|[Development Fastboot](https://github.com/Kifranei/wG_miuidownloadlink/blob/main/whyred_developer/whyred_fastboot_developer_cn.md)
-| 🇷🇺Russia |[Stable Recovery](https://github.com/Kifranei/wG_miuidownloadlink/blob/main/whyred_stable/whyred_recovery_ru.md)|[Stable Fastboot](https://github.com/Kifranei/wG_miuidownloadlink/blob/main/whyred_stable/whyred_fastboot_ru.md)||
+| 🇨🇳中国 & 🇺🇳全球 |[稳定版 卡刷包](https://github.com/Kifranei/RNmiuilinks/blob/main/whyred_stable/whyred_recovery_cn_mi.md)|[稳定版 线刷包](https://github.com/Kifranei/RNmiuilinks/blob/main/whyred_stable/whyred_fastboot_cn_mi.md)|[开发版 卡刷包](https://github.com/Kifranei/RNmiuilinks/blob/main/whyred_developer/whyred_recovery_developer_cn.md)|[开发版 线刷包](https://github.com/Kifranei/RNmiuilinks/blob/main/whyred_developer/whyred_fastboot_developer_cn.md)
+| 🇷🇺俄罗斯 |[稳定版 卡刷包](https://github.com/Kifranei/RNmiuilinks/blob/main/whyred_stable/whyred_recovery_ru.md)|[稳定版 线刷包](https://github.com/Kifranei/RNmiuilinks/blob/main/whyred_stable/whyred_fastboot_ru.md)||
 
 
 Redmi Note 8 (ginkgo)
 
-| Region | Stable | Development |
+| 地区 | 稳定版 | 开发版 |
 | :----: | :----: | :----: |
-| 🇨🇳China |[Stable](https://github.com/Kifranei/wG_miuidownloadlink/blob/main/stable/CN.md)|[Development](https://github.com/Kifranei/wG_miuidownloadlink/blob/main/development/CN.md)
-| 🇺🇳Global |[Stable](https://github.com/Kifranei/wG_miuidownloadlink/blob/main/stable/MI.md)|
-| 🇪🇺Europe |[Stable](https://github.com/Kifranei/wG_miuidownloadlink/blob/main/stable/EEA.md)|
-| 🇮🇳India |[Stable](https://github.com/Kifranei/wG_miuidownloadlink/blob/main/stable/IN.md)|
-| 🇮🇩Indonesia |[Stable](https://github.com/Kifranei/wG_miuidownloadlink/blob/main/stable/ID.md)|
+| 🇨🇳中国 |[稳定版](https://github.com/Kifranei/RNmiuilinks/blob/main/stable/CN_ginkgo.md)|[开发版](https://github.com/Kifranei/RNmiuilinks/blob/main/development/CN_ginkgo.md)
+| 🇺🇳全球 |[稳定版](https://github.com/Kifranei/RNmiuilinks/blob/main/stable/MI_ginkgo.md)|
+| 🇪🇺欧洲 |[稳定版](https://github.com/Kifranei/RNmiuilinks/blob/main/stable/EEA_ginkgo.md)|
+| 🇮🇳印度 |[稳定版](https://github.com/Kifranei/RNmiuilinks/blob/main/stable/IN_ginkgo.md)|
+| 🇮🇩印度尼西亚 |[稳定版](https://github.com/Kifranei/RNmiuilinks/blob/main/stable/ID_ginkgo.md)|
