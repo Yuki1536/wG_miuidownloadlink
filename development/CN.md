@@ -1,6 +1,6 @@
-#中国开发版 China Development
+🇨🇳中国开发版
 
-| MIUI Version (Recovery) |
+| MIUI 版本（卡刷包） |
 | :------: |
 | -MIUI 11 Android 9- |
 | [9.12.12](https://bigota.d.miui.com/9.12.12/miui_GINKGO_9.12.12_b085b46872_9.0.zip)    |
