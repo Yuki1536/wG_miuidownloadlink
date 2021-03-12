@@ -1,4 +1,4 @@
-# Redmi Note 系列 官方 MIUI 下载链接
+# ~~Redmi Note 系列 官方 MIUI 下载链接~~
 
 ~~记录Redmi Note系机型的官方MIUI ROM地址~~
 
